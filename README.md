@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy desarrollador con enfoque en la creación de aplicaciones modernas y funcionales. Actualmente trabajo con tecnologías como Java, Kotlin y desarrollo web, aplicando buenas prácticas de programación y principios de diseño.<br><br>Me interesa construir soluciones prácticas, especialmente en el desarrollo de aplicaciones, automatización y proyectos que integren lógica de negocio con interfaces claras y eficientes. Disfruto aprender nuevas tecnologías y mejorar continuamente mis habilidades a través de proyectos personales.</p>
+<p align="left">Soy desarrollador con enfoque en la creación de aplicaciones modernas y funcionales. Actualmente trabajo con tecnologías como Java, Kotlin y desarrollo web con JavaScript y TypeScript, aplicando buenas prácticas de programación y principios de diseño.<br><br>Me interesa construir soluciones prácticas, especialmente en el desarrollo de aplicaciones, automatización y proyectos que integren lógica de negocio con interfaces claras y eficientes. Disfruto aprender nuevas tecnologías y mejorar continuamente mis habilidades a través de proyectos personales.</p>
 
 ###
 
